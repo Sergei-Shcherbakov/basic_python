@@ -7,7 +7,7 @@
 # Input:
 # n = 700
 # m = 750
-# Output:
+# Output:6
 # 2
 
 n = 700
