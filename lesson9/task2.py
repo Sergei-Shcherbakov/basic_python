@@ -6,7 +6,7 @@
 # median_house_value > 70000
 
 from pandas import read_csv
-data = read_csv('california_housing_test.csv')
+data = read_csv('../lesson10/california_housing_test.csv')
 # print(data.isnull().sum())
 # print(data[data['median_income'] < 2]['median_house_value'])
 # print(data[['longitude', 'latitude']])
